@@ -1,3 +1,4 @@
+
 export default function Movie_home({ movies }) {
   return (
     <>
