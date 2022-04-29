@@ -4,7 +4,7 @@ export default function Music_home() {
   return (
     <>
       <Seo title="Music" />
-      <h1>Music Home</h1>
+      <h1>Music Home.</h1>
     </>
   );
 }
